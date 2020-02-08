@@ -1,6 +1,4 @@
-package com.epam.maven;
-
-
+package com.epam.gift;
 
 public class Choclates extends Sweets{
     Choclates(String name,int cost,float weight,int sweetcontent){

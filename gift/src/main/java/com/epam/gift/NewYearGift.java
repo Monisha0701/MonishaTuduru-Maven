@@ -1,4 +1,4 @@
-package com.epam.maven;
+package com.epam.gift;
 
 import java.util.ArrayList;
 import java.util.*;
